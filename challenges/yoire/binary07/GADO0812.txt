@@ -1,0 +1,16 @@
+Característica: Resolver reto binary/identification/2_chall_mid del sitio yoire.com con mi usuario GADO0812
+
+Antecedentes: 
+	Dada una cantidad de imágenes
+	Y usando Windows 10
+	Y usando Internet
+
+Escenario: Solución Exitosa
+	Dado que el reto hace referencia a números binarios procedo a 
+	Buscar inspeccionar la imagen con click derecho "inspect"
+	Inmediatamente observo que donde se hace el "src" de las imágenes
+	Todas contienen "img/0.png" o "img/1.png", identifico que cada
+	0 y 1 componen la respuesta en binario.
+	Con Note++ elimino todo lo que no requiero hasta generar una cadena
+	de 0 y 1, al final llevo estos números a un diccionario binario en
+	Internet y obtengo la respuesta, la ingreso como solución y me informa que 	es correcta
