@@ -1,9 +1,11 @@
+# languaje: es
+
 Característica: Resolver un reto en yoire
 Del sitio http://yoire.com/
 De la categoria binarios
 Con mi usuario GADO0812
 
-Antecedentes:
+  Antecedentes:
   Dado que tnego una cuenta en http://yoire.com/
   Y tengo sistema operativo Windows 10
   Y tengo acceso a internet
