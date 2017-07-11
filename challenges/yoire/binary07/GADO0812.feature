@@ -19,5 +19,3 @@ Con mi usuario GADO0812
   Entonces queda una lista de numeros binarios
   Y convierto en una pagina web los binarios a texto
   Entonces copio este texto y resuelvo el reto
-
- 
